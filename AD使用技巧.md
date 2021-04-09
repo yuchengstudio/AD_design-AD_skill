@@ -7,4 +7,6 @@
 #1.2 选择要高亮显示的器件（还可以选择component classes进而选择某一块需要单独关注的原理图）
 ![image](https://github.com/yuchengstudio/AD_design-AD_skill/blob/main/reference/AD_check_004.png)
 ![image](https://github.com/yuchengstudio/AD_design-AD_skill/blob/main/reference/AD_check_005.png)
+
+#1.3 高亮网络显示
 ![image](https://github.com/yuchengstudio/AD_design-AD_skill/blob/main/reference/AD_check_006.png)
